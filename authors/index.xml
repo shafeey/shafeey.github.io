@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>https://shafiur.me/authors/</link>
+      <atom:link href="https://shafiur.me/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shafiur.me/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://shafiur.me/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://shafiur.me/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://shafiur.me/authors/admin/</guid>
+      <description>&lt;p&gt;Hello! I am a graduate student in the University of California, Riverside currently working towards earning a PhD degree under the mentorship of Professor &lt;a href=&#34;https://www.cs.ucr.edu/~nael/&#34;&gt;Nael Abu-Ghazaleh&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I work on Computer Architecture and Hardware Accelerators. My goal is to enable the software engineers to fully harness the potential of massively parallel applications using specialized acclerators and architectural extensions. My current research focuses on (i) developing hardware-optimized decoupled computation model for graph processing and machine learning algorithms; and (ii) developing large-scale multicore accelerators to extract the parallelism in these applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>https://shafiur.me/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://shafiur.me/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
