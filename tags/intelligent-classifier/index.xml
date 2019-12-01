@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>intelligent classifier | Shafiur Rahman</title>
-    <link>http://shafiur.me/tags/intelligent-classifier/</link>
-      <atom:link href="http://shafiur.me/tags/intelligent-classifier/index.xml" rel="self" type="application/rss+xml" />
+    <link>www.shafiur.me/tags/intelligent-classifier/</link>
+      <atom:link href="www.shafiur.me/tags/intelligent-classifier/index.xml" rel="self" type="application/rss+xml" />
     <description>intelligent classifier</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2019</copyright><lastBuildDate>Wed, 01 Aug 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://shafiur.me/img/icon-192.png</url>
+      <url>www.shafiur.me/img/icon-192.png</url>
       <title>intelligent classifier</title>
-      <link>http://shafiur.me/tags/intelligent-classifier/</link>
+      <link>www.shafiur.me/tags/intelligent-classifier/</link>
     </image>
     
     <item>
       <title>Gesture recognition with depth images — A simple approach</title>
-      <link>http://shafiur.me/publication/mahbub-gesture-recognition-depth-2012/</link>
+      <link>www.shafiur.me/publication/mahbub-gesture-recognition-depth-2012/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>http://shafiur.me/publication/mahbub-gesture-recognition-depth-2012/</guid>
+      <guid>www.shafiur.me/publication/mahbub-gesture-recognition-depth-2012/</guid>
       <description></description>
     </item>
     

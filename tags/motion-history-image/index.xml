@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Motion history image | Shafiur Rahman</title>
-    <link>http://shafiur.me/tags/motion-history-image/</link>
-      <atom:link href="http://shafiur.me/tags/motion-history-image/index.xml" rel="self" type="application/rss+xml" />
+    <link>www.shafiur.me/tags/motion-history-image/</link>
+      <atom:link href="www.shafiur.me/tags/motion-history-image/index.xml" rel="self" type="application/rss+xml" />
     <description>Motion history image</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2019</copyright><lastBuildDate>Fri, 01 Nov 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://shafiur.me/img/icon-192.png</url>
+      <url>www.shafiur.me/img/icon-192.png</url>
       <title>Motion history image</title>
-      <link>http://shafiur.me/tags/motion-history-image/</link>
+      <link>www.shafiur.me/tags/motion-history-image/</link>
     </image>
     
     <item>
       <title>A template matching approach of one-shot-learning gesture recognition</title>
-      <link>http://shafiur.me/publication/mahbub-template-matching-approach-2013/</link>
+      <link>www.shafiur.me/publication/mahbub-template-matching-approach-2013/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>http://shafiur.me/publication/mahbub-template-matching-approach-2013/</guid>
+      <guid>www.shafiur.me/publication/mahbub-template-matching-approach-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temporal segmentation of gestures using gradient orientation of depth images</title>
-      <link>http://shafiur.me/publication/roy-temporal-segmentation-gestures-2013/</link>
+      <link>www.shafiur.me/publication/roy-temporal-segmentation-gestures-2013/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>http://shafiur.me/publication/roy-temporal-segmentation-gestures-2013/</guid>
+      <guid>www.shafiur.me/publication/roy-temporal-segmentation-gestures-2013/</guid>
       <description></description>
     </item>
     
