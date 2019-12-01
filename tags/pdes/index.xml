@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PDES | Shafiur Rahman</title>
-    <link>www.shafiur.me/tags/pdes/</link>
-      <atom:link href="www.shafiur.me/tags/pdes/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://shafiur.me/tags/pdes/</link>
+      <atom:link href="http://shafiur.me/tags/pdes/index.xml" rel="self" type="application/rss+xml" />
     <description>PDES</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2019</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>www.shafiur.me/img/icon-192.png</url>
+      <url>http://shafiur.me/img/icon-192.png</url>
       <title>PDES</title>
-      <link>www.shafiur.me/tags/pdes/</link>
+      <link>http://shafiur.me/tags/pdes/</link>
     </image>
     
     <item>
       <title>PDES-A: Accelerators for Parallel Discrete Event Simulation Implemented on FPGAs</title>
-      <link>www.shafiur.me/publication/rahman-pdesa-accelerators-parallel-2019/</link>
+      <link>http://shafiur.me/publication/rahman-pdesa-accelerators-parallel-2019/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/publication/rahman-pdesa-accelerators-parallel-2019/</guid>
+      <guid>http://shafiur.me/publication/rahman-pdesa-accelerators-parallel-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PDES-A: A Parallel Discrete Event Simulation Accelerator for FPGAs</title>
-      <link>www.shafiur.me/publication/rahman-pdesa-parallel-discrete-2017/</link>
+      <link>http://shafiur.me/publication/rahman-pdesa-parallel-discrete-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/publication/rahman-pdesa-parallel-discrete-2017/</guid>
+      <guid>http://shafiur.me/publication/rahman-pdesa-parallel-discrete-2017/</guid>
       <description></description>
     </item>
     

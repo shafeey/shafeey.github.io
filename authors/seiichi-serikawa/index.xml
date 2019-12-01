@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seiichi Serikawa | Shafiur Rahman</title>
-    <link>www.shafiur.me/authors/seiichi-serikawa/</link>
-      <atom:link href="www.shafiur.me/authors/seiichi-serikawa/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://shafiur.me/authors/seiichi-serikawa/</link>
+      <atom:link href="http://shafiur.me/authors/seiichi-serikawa/index.xml" rel="self" type="application/rss+xml" />
     <description>Seiichi Serikawa</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2019</copyright><lastBuildDate>Fri, 01 Mar 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>www.shafiur.me/img/icon-192.png</url>
+      <url>http://shafiur.me/img/icon-192.png</url>
       <title>Seiichi Serikawa</title>
-      <link>www.shafiur.me/authors/seiichi-serikawa/</link>
+      <link>http://shafiur.me/authors/seiichi-serikawa/</link>
     </image>
     
     <item>
       <title>One-Shot-Learning Gesture Recognition Using Motion History Based Gesture Silhouettes</title>
-      <link>www.shafiur.me/publication/mahbub-one-shot-learning-gesture-recognition-2013/</link>
+      <link>http://shafiur.me/publication/mahbub-one-shot-learning-gesture-recognition-2013/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/publication/mahbub-one-shot-learning-gesture-recognition-2013/</guid>
+      <guid>http://shafiur.me/publication/mahbub-one-shot-learning-gesture-recognition-2013/</guid>
       <description></description>
     </item>
     

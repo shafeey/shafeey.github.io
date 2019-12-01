@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Shafiur Rahman</title>
-    <link>www.shafiur.me/publication_types/2/</link>
-      <atom:link href="www.shafiur.me/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://shafiur.me/publication_types/2/</link>
+      <atom:link href="http://shafiur.me/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2019</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>www.shafiur.me/img/icon-192.png</url>
+      <url>http://shafiur.me/img/icon-192.png</url>
       <title>2</title>
-      <link>www.shafiur.me/publication_types/2/</link>
+      <link>http://shafiur.me/publication_types/2/</link>
     </image>
     
     <item>
       <title>PDES-A: Accelerators for Parallel Discrete Event Simulation Implemented on FPGAs</title>
-      <link>www.shafiur.me/publication/rahman-pdesa-accelerators-parallel-2019/</link>
+      <link>http://shafiur.me/publication/rahman-pdesa-accelerators-parallel-2019/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/publication/rahman-pdesa-accelerators-parallel-2019/</guid>
+      <guid>http://shafiur.me/publication/rahman-pdesa-accelerators-parallel-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A template matching approach of one-shot-learning gesture recognition</title>
-      <link>www.shafiur.me/publication/mahbub-template-matching-approach-2013/</link>
+      <link>http://shafiur.me/publication/mahbub-template-matching-approach-2013/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/publication/mahbub-template-matching-approach-2013/</guid>
+      <guid>http://shafiur.me/publication/mahbub-template-matching-approach-2013/</guid>
       <description></description>
     </item>
     

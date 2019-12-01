@@ -2,557 +2,557 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Shafiur Rahman</title>
-    <link>www.shafiur.me/tags/</link>
-      <atom:link href="www.shafiur.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://shafiur.me/tags/</link>
+      <atom:link href="http://shafiur.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2019</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>www.shafiur.me/img/icon-192.png</url>
+      <url>http://shafiur.me/img/icon-192.png</url>
       <title>Tags</title>
-      <link>www.shafiur.me/tags/</link>
+      <link>http://shafiur.me/tags/</link>
     </image>
     
     <item>
       <title>accelerator</title>
-      <link>www.shafiur.me/tags/accelerator/</link>
+      <link>http://shafiur.me/tags/accelerator/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/accelerator/</guid>
+      <guid>http://shafiur.me/tags/accelerator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coprocessor</title>
-      <link>www.shafiur.me/tags/coprocessor/</link>
+      <link>http://shafiur.me/tags/coprocessor/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/coprocessor/</guid>
+      <guid>http://shafiur.me/tags/coprocessor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FPGA</title>
-      <link>www.shafiur.me/tags/fpga/</link>
+      <link>http://shafiur.me/tags/fpga/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/fpga/</guid>
+      <guid>http://shafiur.me/tags/fpga/</guid>
       <description></description>
     </item>
     
     <item>
       <title>parallel simulation</title>
-      <link>www.shafiur.me/tags/parallel-simulation/</link>
+      <link>http://shafiur.me/tags/parallel-simulation/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/parallel-simulation/</guid>
+      <guid>http://shafiur.me/tags/parallel-simulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PDES</title>
-      <link>www.shafiur.me/tags/pdes/</link>
+      <link>http://shafiur.me/tags/pdes/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/pdes/</guid>
+      <guid>http://shafiur.me/tags/pdes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>www.shafiur.me/tags/deep-learning/</link>
+      <link>http://shafiur.me/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/deep-learning/</guid>
+      <guid>http://shafiur.me/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>www.shafiur.me/tags/demo/</link>
+      <link>http://shafiur.me/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/demo/</guid>
+      <guid>http://shafiur.me/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>www.shafiur.me/tags/academic/</link>
+      <link>http://shafiur.me/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/academic/</guid>
+      <guid>http://shafiur.me/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>audio processing</title>
-      <link>www.shafiur.me/tags/audio-processing/</link>
+      <link>http://shafiur.me/tags/audio-processing/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/audio-processing/</guid>
+      <guid>http://shafiur.me/tags/audio-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dataplane processing unit</title>
-      <link>www.shafiur.me/tags/dataplane-processing-unit/</link>
+      <link>http://shafiur.me/tags/dataplane-processing-unit/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/dataplane-processing-unit/</guid>
+      <guid>http://shafiur.me/tags/dataplane-processing-unit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nonlinear filters</title>
-      <link>www.shafiur.me/tags/nonlinear-filters/</link>
+      <link>http://shafiur.me/tags/nonlinear-filters/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/nonlinear-filters/</guid>
+      <guid>http://shafiur.me/tags/nonlinear-filters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>signal processing</title>
-      <link>www.shafiur.me/tags/signal-processing/</link>
+      <link>http://shafiur.me/tags/signal-processing/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/signal-processing/</guid>
+      <guid>http://shafiur.me/tags/signal-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Volterra</title>
-      <link>www.shafiur.me/tags/volterra/</link>
+      <link>http://shafiur.me/tags/volterra/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/volterra/</guid>
+      <guid>http://shafiur.me/tags/volterra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Volterra filter</title>
-      <link>www.shafiur.me/tags/volterra-filter/</link>
+      <link>http://shafiur.me/tags/volterra-filter/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/volterra-filter/</guid>
+      <guid>http://shafiur.me/tags/volterra-filter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xtensa</title>
-      <link>www.shafiur.me/tags/xtensa/</link>
+      <link>http://shafiur.me/tags/xtensa/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/xtensa/</guid>
+      <guid>http://shafiur.me/tags/xtensa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xtensa processor</title>
-      <link>www.shafiur.me/tags/xtensa-processor/</link>
+      <link>http://shafiur.me/tags/xtensa-processor/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/xtensa-processor/</guid>
+      <guid>http://shafiur.me/tags/xtensa-processor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2D Fourier transform</title>
-      <link>www.shafiur.me/tags/2d-fourier-transform/</link>
+      <link>http://shafiur.me/tags/2d-fourier-transform/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/2d-fourier-transform/</guid>
+      <guid>http://shafiur.me/tags/2d-fourier-transform/</guid>
       <description></description>
     </item>
     
     <item>
       <title>depth image</title>
-      <link>www.shafiur.me/tags/depth-image/</link>
+      <link>http://shafiur.me/tags/depth-image/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/depth-image/</guid>
+      <guid>http://shafiur.me/tags/depth-image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gesture recognition</title>
-      <link>www.shafiur.me/tags/gesture-recognition/</link>
+      <link>http://shafiur.me/tags/gesture-recognition/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/gesture-recognition/</guid>
+      <guid>http://shafiur.me/tags/gesture-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motion history image</title>
-      <link>www.shafiur.me/tags/motion-history-image/</link>
+      <link>http://shafiur.me/tags/motion-history-image/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/motion-history-image/</guid>
+      <guid>http://shafiur.me/tags/motion-history-image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>action recognition</title>
-      <link>www.shafiur.me/tags/action-recognition/</link>
+      <link>http://shafiur.me/tags/action-recognition/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/action-recognition/</guid>
+      <guid>http://shafiur.me/tags/action-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>classification task</title>
-      <link>www.shafiur.me/tags/classification-task/</link>
+      <link>http://shafiur.me/tags/classification-task/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/classification-task/</guid>
+      <guid>http://shafiur.me/tags/classification-task/</guid>
       <description></description>
     </item>
     
     <item>
       <title>clustering algorithm</title>
-      <link>www.shafiur.me/tags/clustering-algorithm/</link>
+      <link>http://shafiur.me/tags/clustering-algorithm/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/clustering-algorithm/</guid>
+      <guid>http://shafiur.me/tags/clustering-algorithm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>depth information</title>
-      <link>www.shafiur.me/tags/depth-information/</link>
+      <link>http://shafiur.me/tags/depth-information/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/depth-information/</guid>
+      <guid>http://shafiur.me/tags/depth-information/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Euclidean distance based classifier</title>
-      <link>www.shafiur.me/tags/euclidean-distance-based-classifier/</link>
+      <link>http://shafiur.me/tags/euclidean-distance-based-classifier/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/euclidean-distance-based-classifier/</guid>
+      <guid>http://shafiur.me/tags/euclidean-distance-based-classifier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feature extraction</title>
-      <link>www.shafiur.me/tags/feature-extraction/</link>
+      <link>http://shafiur.me/tags/feature-extraction/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/feature-extraction/</guid>
+      <guid>http://shafiur.me/tags/feature-extraction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gesture boundary sample frames</title>
-      <link>www.shafiur.me/tags/gesture-boundary-sample-frames/</link>
+      <link>http://shafiur.me/tags/gesture-boundary-sample-frames/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/gesture-boundary-sample-frames/</guid>
+      <guid>http://shafiur.me/tags/gesture-boundary-sample-frames/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gesture nonboundary sample frames</title>
-      <link>www.shafiur.me/tags/gesture-nonboundary-sample-frames/</link>
+      <link>http://shafiur.me/tags/gesture-nonboundary-sample-frames/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/gesture-nonboundary-sample-frames/</guid>
+      <guid>http://shafiur.me/tags/gesture-nonboundary-sample-frames/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gesture sequences</title>
-      <link>www.shafiur.me/tags/gesture-sequences/</link>
+      <link>http://shafiur.me/tags/gesture-sequences/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/gesture-sequences/</guid>
+      <guid>http://shafiur.me/tags/gesture-sequences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>histogram of gradient</title>
-      <link>www.shafiur.me/tags/histogram-of-gradient/</link>
+      <link>http://shafiur.me/tags/histogram-of-gradient/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/histogram-of-gradient/</guid>
+      <guid>http://shafiur.me/tags/histogram-of-gradient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>histogram oriented gradients</title>
-      <link>www.shafiur.me/tags/histogram-oriented-gradients/</link>
+      <link>http://shafiur.me/tags/histogram-oriented-gradients/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/histogram-oriented-gradients/</guid>
+      <guid>http://shafiur.me/tags/histogram-oriented-gradients/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Histograms</title>
-      <link>www.shafiur.me/tags/histograms/</link>
+      <link>http://shafiur.me/tags/histograms/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/histograms/</guid>
+      <guid>http://shafiur.me/tags/histograms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>image classification</title>
-      <link>www.shafiur.me/tags/image-classification/</link>
+      <link>http://shafiur.me/tags/image-classification/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/image-classification/</guid>
+      <guid>http://shafiur.me/tags/image-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>image segmentation</title>
-      <link>www.shafiur.me/tags/image-segmentation/</link>
+      <link>http://shafiur.me/tags/image-segmentation/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/image-segmentation/</guid>
+      <guid>http://shafiur.me/tags/image-segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>k-means clustering</title>
-      <link>www.shafiur.me/tags/k-means-clustering/</link>
+      <link>http://shafiur.me/tags/k-means-clustering/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/k-means-clustering/</guid>
+      <guid>http://shafiur.me/tags/k-means-clustering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>learning (artificial intelligence)</title>
-      <link>www.shafiur.me/tags/learning-artificial-intelligence/</link>
+      <link>http://shafiur.me/tags/learning-artificial-intelligence/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/learning-artificial-intelligence/</guid>
+      <guid>http://shafiur.me/tags/learning-artificial-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>negative training vectors</title>
-      <link>www.shafiur.me/tags/negative-training-vectors/</link>
+      <link>http://shafiur.me/tags/negative-training-vectors/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/negative-training-vectors/</guid>
+      <guid>http://shafiur.me/tags/negative-training-vectors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pattern clustering</title>
-      <link>www.shafiur.me/tags/pattern-clustering/</link>
+      <link>http://shafiur.me/tags/pattern-clustering/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/pattern-clustering/</guid>
+      <guid>http://shafiur.me/tags/pattern-clustering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>positive training vectors</title>
-      <link>www.shafiur.me/tags/positive-training-vectors/</link>
+      <link>http://shafiur.me/tags/positive-training-vectors/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/positive-training-vectors/</guid>
+      <guid>http://shafiur.me/tags/positive-training-vectors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>supervised learning techniques</title>
-      <link>www.shafiur.me/tags/supervised-learning-techniques/</link>
+      <link>http://shafiur.me/tags/supervised-learning-techniques/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/supervised-learning-techniques/</guid>
+      <guid>http://shafiur.me/tags/supervised-learning-techniques/</guid>
       <description></description>
     </item>
     
     <item>
       <title>support vector machine classifier</title>
-      <link>www.shafiur.me/tags/support-vector-machine-classifier/</link>
+      <link>http://shafiur.me/tags/support-vector-machine-classifier/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/support-vector-machine-classifier/</guid>
+      <guid>http://shafiur.me/tags/support-vector-machine-classifier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>support vector machines</title>
-      <link>www.shafiur.me/tags/support-vector-machines/</link>
+      <link>http://shafiur.me/tags/support-vector-machines/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/support-vector-machines/</guid>
+      <guid>http://shafiur.me/tags/support-vector-machines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>temporal boundary location</title>
-      <link>www.shafiur.me/tags/temporal-boundary-location/</link>
+      <link>http://shafiur.me/tags/temporal-boundary-location/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/temporal-boundary-location/</guid>
+      <guid>http://shafiur.me/tags/temporal-boundary-location/</guid>
       <description></description>
     </item>
     
     <item>
       <title>temporal gesture segmentation</title>
-      <link>www.shafiur.me/tags/temporal-gesture-segmentation/</link>
+      <link>http://shafiur.me/tags/temporal-gesture-segmentation/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/temporal-gesture-segmentation/</guid>
+      <guid>http://shafiur.me/tags/temporal-gesture-segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Training</title>
-      <link>www.shafiur.me/tags/training/</link>
+      <link>http://shafiur.me/tags/training/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/training/</guid>
+      <guid>http://shafiur.me/tags/training/</guid>
       <description></description>
     </item>
     
     <item>
       <title>two-class problem</title>
-      <link>www.shafiur.me/tags/two-class-problem/</link>
+      <link>http://shafiur.me/tags/two-class-problem/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/two-class-problem/</guid>
+      <guid>http://shafiur.me/tags/two-class-problem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vectors</title>
-      <link>www.shafiur.me/tags/vectors/</link>
+      <link>http://shafiur.me/tags/vectors/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/vectors/</guid>
+      <guid>http://shafiur.me/tags/vectors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>background segmentation</title>
-      <link>www.shafiur.me/tags/background-segmentation/</link>
+      <link>http://shafiur.me/tags/background-segmentation/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/background-segmentation/</guid>
+      <guid>http://shafiur.me/tags/background-segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>camera shift effect</title>
-      <link>www.shafiur.me/tags/camera-shift-effect/</link>
+      <link>http://shafiur.me/tags/camera-shift-effect/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/camera-shift-effect/</guid>
+      <guid>http://shafiur.me/tags/camera-shift-effect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cameras</title>
-      <link>www.shafiur.me/tags/cameras/</link>
+      <link>http://shafiur.me/tags/cameras/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/cameras/</guid>
+      <guid>http://shafiur.me/tags/cameras/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Correlation</title>
-      <link>www.shafiur.me/tags/correlation/</link>
+      <link>http://shafiur.me/tags/correlation/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/correlation/</guid>
+      <guid>http://shafiur.me/tags/correlation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>correlation coefficient</title>
-      <link>www.shafiur.me/tags/correlation-coefficient/</link>
+      <link>http://shafiur.me/tags/correlation-coefficient/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/correlation-coefficient/</guid>
+      <guid>http://shafiur.me/tags/correlation-coefficient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>depth images</title>
-      <link>www.shafiur.me/tags/depth-images/</link>
+      <link>http://shafiur.me/tags/depth-images/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/depth-images/</guid>
+      <guid>http://shafiur.me/tags/depth-images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>descriptor extraction method</title>
-      <link>www.shafiur.me/tags/descriptor-extraction-method/</link>
+      <link>http://shafiur.me/tags/descriptor-extraction-method/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/descriptor-extraction-method/</guid>
+      <guid>http://shafiur.me/tags/descriptor-extraction-method/</guid>
       <description></description>
     </item>
     
     <item>
       <title>discrete Fourier transform</title>
-      <link>www.shafiur.me/tags/discrete-fourier-transform/</link>
+      <link>http://shafiur.me/tags/discrete-fourier-transform/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/discrete-fourier-transform/</guid>
+      <guid>http://shafiur.me/tags/discrete-fourier-transform/</guid>
       <description></description>
     </item>
     
     <item>
       <title>discrete Fourier transforms</title>
-      <link>www.shafiur.me/tags/discrete-fourier-transforms/</link>
+      <link>http://shafiur.me/tags/discrete-fourier-transforms/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/discrete-fourier-transforms/</guid>
+      <guid>http://shafiur.me/tags/discrete-fourier-transforms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>foreground segmentation</title>
-      <link>www.shafiur.me/tags/foreground-segmentation/</link>
+      <link>http://shafiur.me/tags/foreground-segmentation/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/foreground-segmentation/</guid>
+      <guid>http://shafiur.me/tags/foreground-segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>image matching</title>
-      <link>www.shafiur.me/tags/image-matching/</link>
+      <link>http://shafiur.me/tags/image-matching/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/image-matching/</guid>
+      <guid>http://shafiur.me/tags/image-matching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>image templates</title>
-      <link>www.shafiur.me/tags/image-templates/</link>
+      <link>http://shafiur.me/tags/image-templates/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/image-templates/</guid>
+      <guid>http://shafiur.me/tags/image-templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>intelligent classifier</title>
-      <link>www.shafiur.me/tags/intelligent-classifier/</link>
+      <link>http://shafiur.me/tags/intelligent-classifier/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/intelligent-classifier/</guid>
+      <guid>http://shafiur.me/tags/intelligent-classifier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>motion depth image</title>
-      <link>www.shafiur.me/tags/motion-depth-image/</link>
+      <link>http://shafiur.me/tags/motion-depth-image/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/motion-depth-image/</guid>
+      <guid>http://shafiur.me/tags/motion-depth-image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>motion estimation</title>
-      <link>www.shafiur.me/tags/motion-estimation/</link>
+      <link>http://shafiur.me/tags/motion-estimation/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/motion-estimation/</guid>
+      <guid>http://shafiur.me/tags/motion-estimation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>query video</title>
-      <link>www.shafiur.me/tags/query-video/</link>
+      <link>http://shafiur.me/tags/query-video/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/query-video/</guid>
+      <guid>http://shafiur.me/tags/query-video/</guid>
       <description></description>
     </item>
     
     <item>
       <title>simple approach</title>
-      <link>www.shafiur.me/tags/simple-approach/</link>
+      <link>http://shafiur.me/tags/simple-approach/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/simple-approach/</guid>
+      <guid>http://shafiur.me/tags/simple-approach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>space time descriptors</title>
-      <link>www.shafiur.me/tags/space-time-descriptors/</link>
+      <link>http://shafiur.me/tags/space-time-descriptors/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/space-time-descriptors/</guid>
+      <guid>http://shafiur.me/tags/space-time-descriptors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>standard deviation</title>
-      <link>www.shafiur.me/tags/standard-deviation/</link>
+      <link>http://shafiur.me/tags/standard-deviation/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/standard-deviation/</guid>
+      <guid>http://shafiur.me/tags/standard-deviation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Standards</title>
-      <link>www.shafiur.me/tags/standards/</link>
+      <link>http://shafiur.me/tags/standards/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/standards/</guid>
+      <guid>http://shafiur.me/tags/standards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>template matching</title>
-      <link>www.shafiur.me/tags/template-matching/</link>
+      <link>http://shafiur.me/tags/template-matching/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/tags/template-matching/</guid>
+      <guid>http://shafiur.me/tags/template-matching/</guid>
       <description></description>
     </item>
     

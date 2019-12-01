@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Shafiur Rahman</title>
-    <link>www.shafiur.me/talk/</link>
-      <atom:link href="www.shafiur.me/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://shafiur.me/talk/</link>
+      <atom:link href="http://shafiur.me/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2019</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>www.shafiur.me/img/icon-192.png</url>
+      <url>http://shafiur.me/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>www.shafiur.me/talk/</link>
+      <link>http://shafiur.me/talk/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>www.shafiur.me/talk/example/</link>
+      <link>http://shafiur.me/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>www.shafiur.me/talk/example/</guid>
+      <guid>http://shafiur.me/talk/example/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
