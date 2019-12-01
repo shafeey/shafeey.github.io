@@ -1,0 +1,18 @@
+@article{rahmanPDESAAcceleratorsParallel2019,
+ abstract = {In this article, we present experiences implementing a general Parallel Discrete Event Simulation (PDES) accelerator on a Field Programmable Gate Array (FPGA). The accelerator can be specialized to any particular simulation model by defining the object states and the event handling code, which are then synthesized into a custom accelerator for the given model. The accelerator consists of several event processors that can process events in parallel while maintaining the dependencies between them. Events are automatically sorted by a self-sorting event queue. The accelerator supports optimistic simulation by automatically keeping track of event history and supporting rollbacks. The architecture is limited in scalability locally by the communication and port bandwidth of the different structures. However, it is designed to allow multiple accelerators to be connected to scale up the simulation. We evaluate the design and explore several design trade-offs and optimizations. We show that the accelerator can scale to 64 concurrent event processors relative to the performance of a single event processor. At this point, the scalability becomes limited by contention on the shared structures within the datapath. To alleviate this bottleneck, we also develop a new version of the datapath that partitions the state and event space of the simulation but allows these partitions to share the use of the event processors. The new design substantially reduces contention and improves the performance with 64 processors from 49x to 62x relative to a single processor design. We went through two iterations of the design of PDES-A, first using Verilog and then using Chisel (for the partitioned version of the design). We report in this article on some observations in the differences in prototyping accelerators using these two different languages. PDES-A outperforms the ROSS simulator running on a 12-core Intel Xeon machine by a factor of 3.2x with less than 15% of the power consumption. Our future work includes building multiple interconnected PDES-A cores.},
+ author = {Rahman, Shafiur and Abu-Ghazaleh, Nael and Najjar, Walid},
+ doi = {10.1145/3302259},
+ issn = {1049-3301},
+ journal = {ACM Transactions on Modeling and Computer Simulation (TOMACS)},
+ keywords = {accelerator, coprocessor, FPGA, parallel simulation, PDES},
+ month = {April},
+ number = {2},
+ pages = {12:1--12:25},
+ shorttitle = {PDES-A},
+ title = {PDES-A: Accelerators for Parallel Discrete Event Simulation Implemented on FPGAs},
+ url = {http://doi.acm.org/10.1145/3302259},
+ urldate = {2019-12-01},
+ volume = {29},
+ year = {2019}
+}
+

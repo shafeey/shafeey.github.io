@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xtensa | Shafiur Rahman</title>
+    <link>http://shafiur.me/tags/xtensa/</link>
+      <atom:link href="http://shafiur.me/tags/xtensa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xtensa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2019</copyright><lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://shafiur.me/img/icon-192.png</url>
+      <title>Xtensa</title>
+      <link>http://shafiur.me/tags/xtensa/</link>
+    </image>
+    
+    <item>
+      <title>A novel adaptive volterra filter to compensate for speaker non-linearity</title>
+      <link>http://shafiur.me/publication/roy-novel-adaptive-volterra-2014/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://shafiur.me/publication/roy-novel-adaptive-volterra-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

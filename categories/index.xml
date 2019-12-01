@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | Academic</title>
-    <link>https://shafiur.me/categories/</link>
-      <atom:link href="https://shafiur.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories | Shafiur Rahman</title>
+    <link>http://shafiur.me/categories/</link>
+      <atom:link href="http://shafiur.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2019</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shafiur.me/img/icon-192.png</url>
+      <url>http://shafiur.me/img/icon-192.png</url>
       <title>Categories</title>
-      <link>https://shafiur.me/categories/</link>
+      <link>http://shafiur.me/categories/</link>
     </image>
     
     <item>
       <title>Demo</title>
-      <link>https://shafiur.me/categories/demo/</link>
+      <link>http://shafiur.me/categories/demo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://shafiur.me/categories/demo/</guid>
+      <guid>http://shafiur.me/categories/demo/</guid>
       <description></description>
     </item>
     

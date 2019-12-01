@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Academic</title>
-    <link>https://shafiur.me/publication_types/2/</link>
-      <atom:link href="https://shafiur.me/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <title>2 | Shafiur Rahman</title>
+    <link>http://shafiur.me/publication_types/2/</link>
+      <atom:link href="http://shafiur.me/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2019</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shafiur.me/img/icon-192.png</url>
+      <url>http://shafiur.me/img/icon-192.png</url>
       <title>2</title>
-      <link>https://shafiur.me/publication_types/2/</link>
+      <link>http://shafiur.me/publication_types/2/</link>
     </image>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://shafiur.me/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://shafiur.me/publication/journal-article/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>PDES-A: Accelerators for Parallel Discrete Event Simulation Implemented on FPGAs</title>
+      <link>http://shafiur.me/publication/rahman-pdesa-accelerators-parallel-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://shafiur.me/publication/rahman-pdesa-accelerators-parallel-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A template matching approach of one-shot-learning gesture recognition</title>
+      <link>http://shafiur.me/publication/mahbub-template-matching-approach-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://shafiur.me/publication/mahbub-template-matching-approach-2013/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,0 +1,19 @@
+@inproceedings{rahmanPDESAParallelDiscrete2017,
+ abstract = {In this paper, we present initial experiences implementing a general Parallel Discrete Event Simulation (PDES) accelerator on a Field Programmable Gate Array (FPGA). The accelerator can be specialized to any particular simulation model by defining the object states and the event handling logic, which are then synthesized into a custom accelerator for the given model. The accelerator consists of several event processors that can process events in parallel while maintaining the dependencies between them. Events are automatically sorted by a self-sorting event queue. The accelerator supports optimistic simulation by automatically keeping track of event history and supporting rollbacks. The architecture is limited in scalability locally by the communication and port bandwidth of the different structures. However, it is designed to allow multiple accelerators to be connected together to scale up the simulation. We evaluate the design and explore several design tradeoffs and optimizations. We show the accelerator can scale to 64 concurrent event processors relative to the performance of a single event processor.},
+ address = {New York, NY, USA},
+ author = {Rahman, Shafiur and Abu-Ghazaleh, Nael and Najjar, Walid},
+ booktitle = {Proceedings of the 2017 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation},
+ doi = {10.1145/3064911.3064930},
+ isbn = {978-1-4503-4489-0},
+ keywords = {accelerator, coprocessor, FPGA, parallel simulation, PDES},
+ note = {event-place: Singapore, Republic of Singapore},
+ pages = {133--144},
+ publisher = {ACM},
+ series = {SIGSIM-PADS '17},
+ shorttitle = {PDES-A},
+ title = {PDES-A: A Parallel Discrete Event Simulation Accelerator for FPGAs},
+ url = {http://doi.acm.org/10.1145/3064911.3064930},
+ urldate = {2019-12-01},
+ year = {2017}
+}
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upal Mahbub | Shafiur Rahman</title>
+    <link>http://shafiur.me/authors/upal-mahbub/</link>
+      <atom:link href="http://shafiur.me/authors/upal-mahbub/index.xml" rel="self" type="application/rss+xml" />
+    <description>Upal Mahbub</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2019</copyright><lastBuildDate>Fri, 01 Nov 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://shafiur.me/img/icon-192.png</url>
+      <title>Upal Mahbub</title>
+      <link>http://shafiur.me/authors/upal-mahbub/</link>
+    </image>
+    
+    <item>
+      <title>A template matching approach of one-shot-learning gesture recognition</title>
+      <link>http://shafiur.me/publication/mahbub-template-matching-approach-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://shafiur.me/publication/mahbub-template-matching-approach-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal segmentation of gestures using gradient orientation of depth images</title>
+      <link>http://shafiur.me/publication/roy-temporal-segmentation-gestures-2013/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://shafiur.me/publication/roy-temporal-segmentation-gestures-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Shot-Learning Gesture Recognition Using Motion History Based Gesture Silhouettes</title>
+      <link>http://shafiur.me/publication/mahbub-one-shot-learning-gesture-recognition-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://shafiur.me/publication/mahbub-one-shot-learning-gesture-recognition-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gesture recognition with depth images — A simple approach</title>
+      <link>http://shafiur.me/publication/mahbub-gesture-recognition-depth-2012/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://shafiur.me/publication/mahbub-gesture-recognition-depth-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
