@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Depth image | Shafiur Rahman</title>
+    <title>depth image | Shafiur Rahman</title>
     <link>http://shafiur.me/tags/depth-image/</link>
       <atom:link href="http://shafiur.me/tags/depth-image/index.xml" rel="self" type="application/rss+xml" />
-    <description>Depth image</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2019</copyright><lastBuildDate>Fri, 01 Nov 2013 00:00:00 +0000</lastBuildDate>
+    <description>depth image</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2020</copyright><lastBuildDate>Fri, 01 Nov 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://shafiur.me/img/icon-192.png</url>
-      <title>Depth image</title>
+      <title>depth image</title>
       <link>http://shafiur.me/tags/depth-image/</link>
     </image>
     

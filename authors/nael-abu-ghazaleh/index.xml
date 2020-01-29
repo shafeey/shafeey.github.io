@@ -5,13 +5,7 @@
     <link>http://shafiur.me/authors/nael-abu-ghazaleh/</link>
       <atom:link href="http://shafiur.me/authors/nael-abu-ghazaleh/index.xml" rel="self" type="application/rss+xml" />
     <description>Nael Abu-Ghazaleh</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2019</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://shafiur.me/img/icon-192.png</url>
-      <title>Nael Abu-Ghazaleh</title>
-      <link>http://shafiur.me/authors/nael-abu-ghazaleh/</link>
-    </image>
-    
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2020</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>PDES-A: Accelerators for Parallel Discrete Event Simulation Implemented on FPGAs</title>
       <link>http://shafiur.me/publication/rahman-pdesa-accelerators-parallel-2019/</link>
