@@ -5,112 +5,12 @@
     <link>http://shafiur.me/authors/</link>
       <atom:link href="http://shafiur.me/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2020</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>Nael Abu-Ghazaleh</title>
-      <link>http://shafiur.me/authors/nael-abu-ghazaleh/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://shafiur.me/authors/nael-abu-ghazaleh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shafiur Rahman</title>
-      <link>http://shafiur.me/authors/shafiur-rahman/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://shafiur.me/authors/shafiur-rahman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Walid Najjar</title>
-      <link>http://shafiur.me/authors/walid-najjar/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://shafiur.me/authors/walid-najjar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://shafiur.me/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://shafiur.me/authors/admin/</guid>
-      <description>&lt;p&gt;Hello! I am a graduate student in the University of California, Riverside currently working towards earning a PhD degree under the mentorship of Professor &lt;a href=&#34;https://www.cs.ucr.edu/~nael/&#34;&gt;Nael Abu-Ghazaleh&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I work on Computer Architecture and Hardware Accelerators. My goal is to enable the software engineers to fully harness the potential of massively parallel applications using specialized acclerators and architectural extensions. My current research focuses on (i) developing hardware-optimized decoupled computation model for graph processing and machine learning algorithms; and (ii) developing large-scale multicore accelerators to extract the parallelism in these applications.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A. B. M. Harun-Ur-Rashid</title>
-      <link>http://shafiur.me/authors/a.-b.-m.-harun-ur-rashid/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>http://shafiur.me/authors/a.-b.-m.-harun-ur-rashid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Abdullah Ash-Saki</title>
-      <link>http://shafiur.me/authors/abdullah-ash-saki/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>http://shafiur.me/authors/abdullah-ash-saki/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parvez Ahmmed</title>
-      <link>http://shafiur.me/authors/parvez-ahmmed/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>http://shafiur.me/authors/parvez-ahmmed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tonmoy Roy</title>
-      <link>http://shafiur.me/authors/tonmoy-roy/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>http://shafiur.me/authors/tonmoy-roy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hafiz Imtiaz</title>
-      <link>http://shafiur.me/authors/hafiz-imtiaz/</link>
-      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>http://shafiur.me/authors/hafiz-imtiaz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Md. Atiqur Rahman Ahad</title>
-      <link>http://shafiur.me/authors/md.-atiqur-rahman-ahad/</link>
-      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>http://shafiur.me/authors/md.-atiqur-rahman-ahad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Upal Mahbub</title>
-      <link>http://shafiur.me/authors/upal-mahbub/</link>
-      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>http://shafiur.me/authors/upal-mahbub/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Md Atiqur Rahman Ahad</title>
-      <link>http://shafiur.me/authors/md-atiqur-rahman-ahad/</link>
-      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://shafiur.me/authors/md-atiqur-rahman-ahad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seiichi Serikawa</title>
-      <link>http://shafiur.me/authors/seiichi-serikawa/</link>
-      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://shafiur.me/authors/seiichi-serikawa/</guid>
-      <description></description>
-    </item>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2020</copyright><lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://shafiur.me/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>http://shafiur.me/authors/</link>
+    </image>
     
   </channel>
 </rss>

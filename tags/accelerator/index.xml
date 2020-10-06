@@ -5,12 +5,20 @@
     <link>http://shafiur.me/tags/accelerator/</link>
       <atom:link href="http://shafiur.me/tags/accelerator/index.xml" rel="self" type="application/rss+xml" />
     <description>accelerator</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2020</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shafiur Rahman © 2020</copyright><lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://shafiur.me/img/icon-192.png</url>
       <title>accelerator</title>
       <link>http://shafiur.me/tags/accelerator/</link>
     </image>
+    
+    <item>
+      <title>GraphPulse: An Event-Driven Hardware Accelerator for Asynchronous Graph Processing</title>
+      <link>http://shafiur.me/publication/rahman-graphpulse-micro-2020/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://shafiur.me/publication/rahman-graphpulse-micro-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PDES-A: Accelerators for Parallel Discrete Event Simulation Implemented on FPGAs</title>
