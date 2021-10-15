@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2D Fourier transform | Shafiur Rahman</title>
+    <link>https://shafiur.me/tag/2d-fourier-transform/</link>
+      <atom:link href="https://shafiur.me/tag/2d-fourier-transform/index.xml" rel="self" type="application/rss+xml" />
+    <description>2D Fourier transform</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Shafiur Rahman © 2021</copyright><lastBuildDate>Fri, 01 Nov 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shafiur.me/media/icon_hudb377424f1038b335e6903c5f8129d15_14008_512x512_fill_lanczos_center_3.png</url>
+      <title>2D Fourier transform</title>
+      <link>https://shafiur.me/tag/2d-fourier-transform/</link>
+    </image>
+    
+    <item>
+      <title>A template matching approach of one-shot-learning gesture recognition</title>
+      <link>https://shafiur.me/publication/mahbub-template-matching-approach-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://shafiur.me/publication/mahbub-template-matching-approach-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gesture recognition with depth images — A simple approach</title>
+      <link>https://shafiur.me/publication/mahbub-gesture-recognition-depth-2012/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://shafiur.me/publication/mahbub-gesture-recognition-depth-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Volterra | Shafiur Rahman</title>
+    <link>https://shafiur.me/tag/volterra/</link>
+      <atom:link href="https://shafiur.me/tag/volterra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Volterra</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Shafiur Rahman © 2021</copyright><lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shafiur.me/media/icon_hudb377424f1038b335e6903c5f8129d15_14008_512x512_fill_lanczos_center_3.png</url>
+      <title>Volterra</title>
+      <link>https://shafiur.me/tag/volterra/</link>
+    </image>
+    
+    <item>
+      <title>A novel adaptive volterra filter to compensate for speaker non-linearity</title>
+      <link>https://shafiur.me/publication/roy-novel-adaptive-volterra-2014/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://shafiur.me/publication/roy-novel-adaptive-volterra-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event-driven architecture | Shafiur Rahman</title>
+    <link>https://shafiur.me/tag/event-driven-architecture/</link>
+      <atom:link href="https://shafiur.me/tag/event-driven-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <description>Event-driven architecture</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Shafiur Rahman © 2021</copyright><lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shafiur.me/media/icon_hudb377424f1038b335e6903c5f8129d15_14008_512x512_fill_lanczos_center_3.png</url>
+      <title>Event-driven architecture</title>
+      <link>https://shafiur.me/tag/event-driven-architecture/</link>
+    </image>
+    
+    <item>
+      <title>GraphPulse: An Event-Driven Hardware Accelerator for Asynchronous Graph Processing</title>
+      <link>https://shafiur.me/publication/rahman-graphpulse-micro-2020/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://shafiur.me/publication/rahman-graphpulse-micro-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

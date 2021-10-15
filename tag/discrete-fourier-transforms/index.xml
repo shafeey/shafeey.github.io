@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>discrete Fourier transforms | Shafiur Rahman</title>
+    <link>https://shafiur.me/tag/discrete-fourier-transforms/</link>
+      <atom:link href="https://shafiur.me/tag/discrete-fourier-transforms/index.xml" rel="self" type="application/rss+xml" />
+    <description>discrete Fourier transforms</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Shafiur Rahman © 2021</copyright><lastBuildDate>Wed, 01 Aug 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shafiur.me/media/icon_hudb377424f1038b335e6903c5f8129d15_14008_512x512_fill_lanczos_center_3.png</url>
+      <title>discrete Fourier transforms</title>
+      <link>https://shafiur.me/tag/discrete-fourier-transforms/</link>
+    </image>
+    
+    <item>
+      <title>Gesture recognition with depth images — A simple approach</title>
+      <link>https://shafiur.me/publication/mahbub-gesture-recognition-depth-2012/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://shafiur.me/publication/mahbub-gesture-recognition-depth-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
