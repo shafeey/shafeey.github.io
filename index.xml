@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>CommonGraph: Graph Analytics on Evolving Data</title>
+      <link>https://shafiur.me/publication/commongraph_evolving_graph/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:43 -0800</pubDate>
+      <guid>https://shafiur.me/publication/commongraph_evolving_graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>JetStream: Graph Analytics on Streaming Data with Event-Driven Hardware Accelerator</title>
       <link>https://shafiur.me/publication/rahman-jetstream-micro-2021/</link>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
